@@ -75,7 +75,7 @@ around 10841 datapoints with each datapoint having
     7.  Type : The application is free or paid 
     8.  Price : Price of the app
     9.  Content Rating : Content Rating of the app
-    10. Genre : Genre of the app
+    10. Genre : Genre of the app 
     11. Last Updated : Date on which the application was last updated
     12. Current Version : Current Version of the app on play store
     13. Android Version : Lowest Android Version which the app supports
