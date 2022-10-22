@@ -33,7 +33,7 @@ libraries locally in our machine.
 
 ## Code
 
-The main code is provided in the `Play_Store_App_Data_Analysis.ipynb`
+The main code is provided in the `Play_Store_App_Review_Analysis_Capstone_Project.ipynb`
 notebook file. We will also require the two datasets
 `Play Store data.csv` and `User Reviews.csv` to run the
 notebook. An interactive dashboard created on the same datasets
@@ -45,11 +45,11 @@ In a terminal or command window, navigate to the top-level project directory (th
 and run one of the following commands:
 
 ```
-ipython notebook Play_Store_App_Data_Analysis.ipnyb
+ipython notebook Play_Store_App_Review_Analysis_Capstone_Project.ipnyb
 ```
 or
 ```
-jupyter notebook Play_Store_App_Data_Analysis.ipnyb
+jupyter notebook Play_Store_App_Review_Analysis_Capstone_Project.ipnyb
 ```
 or open with Jupyter Lab
 ```
