@@ -95,7 +95,7 @@ observations each having 5 features or variables.
 
 
 ## 🚀 About Me
-I'm an aspriring data scientist who loves to `deeply` work with data
+I'm an aspiring Data Scientist who is adept in analyzing and interpreting large datasets and developing new forecasting models. I have strong attention to detail and a significant ability to work in team environments.
 
 
 ## 🔗 Links
